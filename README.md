@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-**zus-pop/zus-pop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!---**zus-pop/zus-pop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+--->
 - 🔭 I’m currently working on POD Booking App
 - 🌱 I’m currently learning NodeJs + Typescript + React
 - 👯 I’m looking to collaborate on ...
